@@ -1,2 +1,2 @@
 # E-com-App-CURD-Project
- E-commerce projects with CURD operations using ReactJS
+ E-commerce Book App project with CURD operations using ReactJS
