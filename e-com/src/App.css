@@ -1,0 +1,17 @@
+.add_btn{
+  text-align: right;
+}
+.container{
+  overflow: auto;
+}
+.add-book{
+  margin-left: 20rem;
+}
+.add-book>h1{
+  margin-left: 3rem;
+  color: blue;
+}
+.btn-submit{
+  margin-left: 10rem;
+  
+}
